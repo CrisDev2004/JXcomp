@@ -1,0 +1,2 @@
+# JXcomp
+Hello. It is my first project uploaded on GitHub. JXcomp is a Java compiler. Have fun using it! Wrote in Shell Script programming language. I have Linux Ubuntu, so I am sure it works on Linux. But if you have Windows or MacOS, im not sure it will work. I will make it universal compatible in some time. This is the V1.0 of this software. To execute it, execute the command "chmod u+x jxcomp.sh" and then "./jxcomp.sh" (without the quotes).
